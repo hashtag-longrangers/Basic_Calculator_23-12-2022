@@ -1,7 +1,7 @@
 Basic Calculator app
 
 ![Design for the project]([https://github.com/hashtag-longrangers/Basic_Calculator_23-12-2022/main/Basic_Calculator/assets/Gitty_Calculator_Pro.jpg])
-[[https://github.com/hashtag-longrangers/Basic_Calculator_23-12-2022/main/Basic Calculator/assets/Gitty_Calculator_Pro.jpg]]
+
 
 ## Hello 
 
