@@ -1,4 +1,4 @@
-Basic Calculator app
+                                                        BASIC CALCULATOR APP
 
                                                         Design for the project
 ![Gittty_Calculator_Pro](https://user-images.githubusercontent.com/99029902/209851814-86c84a37-dae9-44dc-bfdb-6b6409c3abb3.JPG)
