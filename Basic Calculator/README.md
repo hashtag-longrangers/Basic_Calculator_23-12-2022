@@ -1,6 +1,6 @@
 Basic Calculator app
 
-![Design for the project](https://raw.githubusercontent.com/codedamn-projects/calculator-clone/main/assets/Gittty_Calculator_Pro.jpeg)
+![Design for the project](https://raw.githubusercontent.com/codedamn-projects/calculator-clone/main/assets/Gittty_Calculator_Pro.jpg)
 
 ## Hello 
 
